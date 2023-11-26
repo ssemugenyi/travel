@@ -1,0 +1,22 @@
+.hero_section {
+    max-width: 100%;
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-image: url(../../assets/img/beach-1824855.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
+.content {
+    width: 400px;
+}
+
+.content h2 {
+    font-size: 38px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
