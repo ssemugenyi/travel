@@ -1,0 +1,20 @@
+.nav_list__items {
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+.nav_list__items li {
+    list-style: none;
+    font-family: "Raleway";
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.nav_list__items li a {
+    text-decoration: none;
+    color: #e79e48;
+}
+.nav_list__items li a:active,
+.nav_list__items li a:visited {
+    color: #915926;
+}
